@@ -40,5 +40,5 @@ I specialize in full-stack web development, backend engineering, and database so
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/valerie-polania](https://www.linkedin.com/in/valerie-polania)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/valerie-polania](https://www.linkedin.com/in/valerie-polania)
 * **Email:** [vpolania@my.bcit.ca](mailto:vpolania@my.bcit.ca)
